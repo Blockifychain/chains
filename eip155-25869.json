@@ -1,0 +1,23 @@
+{
+    "name": "Blockify Chain Mainnet",
+    "chain": "BLOCK",
+    "icon": "BLOCK",
+    "rpc": ["https://rpc1.blockifychain.live/"],
+    "faucets": ["https://faucet.blockifychain.live/"],
+    "nativeCurrency": {
+      "name": "Blockify Chain Mainnet",
+      "symbol": "BLOCK",
+      "decimals": 18
+    },
+    "infoURL": "https://blockifychain.live",
+    "shortName": "BLOCK",
+    "chainId": 25869,
+    "networkId": 25869,
+    "explorers": [
+      {
+        "name": "Blockify Chain Explorer",
+        "url": "https://mainnet.blockifychain.live/",
+        "standard": "EIP3091"
+      }
+    ]
+}
